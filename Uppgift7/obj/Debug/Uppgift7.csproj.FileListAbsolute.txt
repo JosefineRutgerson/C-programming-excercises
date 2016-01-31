@@ -1,0 +1,5 @@
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift7\bin\Debug\Uppgift7.exe.config
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift7\bin\Debug\Uppgift7.exe
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift7\bin\Debug\Uppgift7.pdb
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift7\obj\Debug\Uppgift7.exe
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift7\obj\Debug\Uppgift7.pdb

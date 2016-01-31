@@ -1,0 +1,6 @@
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift8\bin\Debug\Uppgift8.exe.config
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift8\bin\Debug\Uppgift8.exe
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift8\bin\Debug\Uppgift8.pdb
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift8\obj\Debug\Uppgift8.exe
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift8\obj\Debug\Uppgift8.pdb
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift8\obj\Debug\Uppgift8.csprojResolveAssemblyReference.cache

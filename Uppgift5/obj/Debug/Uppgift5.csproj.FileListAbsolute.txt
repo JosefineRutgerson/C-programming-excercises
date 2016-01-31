@@ -1,0 +1,5 @@
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift5\bin\Debug\Uppgift5.exe.config
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift5\bin\Debug\Uppgift5.exe
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift5\bin\Debug\Uppgift5.pdb
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift5\obj\Debug\Uppgift5.exe
+C:\Users\Josefine\Google Drive\Systemutvecklare\Csharp\Projects\webassigments\Uppgift5\obj\Debug\Uppgift5.pdb
